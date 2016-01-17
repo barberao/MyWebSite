@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/Users/obarbera/Documents/Others/html/web2",
+			"name": "MyFirstWebSite",
+			"file_exclude_patterns":
+			[
+				"*.sublime-project",
+				"*.sublime-workspace"
+			]
+		}
+		
+	]
+}
